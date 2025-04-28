@@ -3,7 +3,7 @@
     { "id": 1, "title": "Complete project documentation" },
     { "id": 2, "title": "Review pull requests" },
     { "id": 3, "title": "Update dependencies" },
-    { "id": 3, "title": "Write unit tests" },
-    { "id": 3, "title": "Deploy to production" }
+    { "id": 4, "title": "Write unit tests" },
+    { "id": 5, "title": "Deploy to production" }
   ]
 }
